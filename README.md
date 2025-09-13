@@ -20,10 +20,10 @@ Pengguna dapat menambahkan daftar mata kuliah beserta SKS dan nilai, lalu aplika
 ---
 
 ## 🛠️ Instalasi & Menjalankan
-1. **Clone / Download** project ini.  
-   ```bash
-   git clone https://github.com/username/penghitung-ipk.git
-   cd penghitung-ipk
+1. Clone repo ini atau download sebagai .zip.
+2. Ekstrak atau salin aplikasi ke folder baru, lalu simpan di path yang aman. Contoh: C:\Program Files\Penghitung-IPK-Mahasiswa\Penghitung_IPK.exe
+3. Buat shortcut dari file .exe ke Desktop agar mudah diakses
+4. Jalankan aplikasi melalui shortcut atau langsung klik file .exe.
 
 ---
 ## Icon Aplikasi
