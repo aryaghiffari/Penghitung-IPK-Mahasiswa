@@ -1,6 +1,6 @@
 # 📘 Aplikasi Penghitung IPK Mahasiswa
 
-Aplikasi desktop berbasis **Python (CustomTkinter)** untuk membantu mahasiswa menghitung **Indeks Prestasi Kumulatif (IPK)** secara otomatis.  
+Aplikasi desktop portable untuk membantu mahasiswa menghitung **Indeks Prestasi Kumulatif (IPK)** secara otomatis.  
 Pengguna dapat menambahkan daftar mata kuliah beserta SKS dan nilai, lalu aplikasi akan menghitung **Total SKS, Angka Mutu, IPK, dan Predikat**.
 
 ---
