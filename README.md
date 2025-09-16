@@ -26,5 +26,11 @@ Pengguna dapat menambahkan daftar mata kuliah beserta SKS dan nilai, lalu aplika
 4. Jalankan aplikasi melalui shortcut atau langsung klik file .exe.
 
 ---
+
+## 📸 Dokumentasi Program
+ ![Dokumentasi Program](https://i.ibb.co/MkLw2tB2/Screenshot-1261.png)
+
+ ---
+ 
 ## Icon Aplikasi
 https://icon-icons.com/id/icon/menghitung-sama/194844https://icon-icons.com/id/icon/menghitung-sama/194844
